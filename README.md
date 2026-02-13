@@ -1,4 +1,4 @@
 # to-learn
 learning github
 <br>
-author - Sesetty Bhargavi
+author - Sesetty Bhargavi("MERN stack developer")
